@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\uni course\2nd semister\visual studio opp\tour_managment_system\tour_managment_system\Source.cpp(33,6): warning C4101: 'd': unreferenced local variable
+  tour_managment_system.vcxproj -> E:\uni course\2nd semister\visual studio opp\tour_managment_system\Debug\tour_managment_system.exe
